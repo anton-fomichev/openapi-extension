@@ -4,7 +4,7 @@
     "declaration": true,
     "resolveJsonModule": true,
     "outDir": "dist",
-    "module": "esnext"
+    "module": "CommonJS"
   },
   "include": [
     "src/**/*.ts",
